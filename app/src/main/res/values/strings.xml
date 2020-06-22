@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">拍一拍小尾巴</string>
+    <string name="accessibility_description">自动生效微信拍一拍</string>
+</resources>
